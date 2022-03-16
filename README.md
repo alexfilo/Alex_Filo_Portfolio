@@ -18,3 +18,5 @@ Showcasing some of my projects
 * Queried data from 3 files containing information on public schools, crimes, and census data
 * Calculated averages and rolling metrics to investiage what poor school districts have in common
 * Showcased my ability to use subqueries and joins
+
+#[Power BI](https://github.com/alexfilo/Portfolio_Website/blob/main/images/powerbi.jpg)
