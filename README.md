@@ -19,4 +19,4 @@ Showcasing some of my projects
 * Calculated averages and rolling metrics to investiage what poor school districts have in common
 * Showcased my ability to use subqueries and joins
 
-#[Power BI](https://github.com/alexfilo/Portfolio_Website/blob/main/images/powerbi.jpg)
+# [Power BI](https://github.com/alexfilo/Portfolio_Website/blob/main/images/powerbi.jpg)
