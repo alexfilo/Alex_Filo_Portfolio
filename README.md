@@ -6,7 +6,7 @@ Showcasing some of my projects
 * Calculated averages and rolling metrics to investiage what poor school districts have in common
 * Showcased my ability to use subqueries and joins
 
-# [(Machine Learning) Car Price Prediction using Python](https://github.com/alexfilo/Machine_Learning_Car_Price_Prediction/blob/main/Machine%20Learning%20Car%20Price%20Prediction.ipynb)
+# [(Machine Learning in Python) Car Price Prediction](https://github.com/alexfilo/Machine_Learning_Car_Price_Prediction/blob/main/Machine%20Learning%20Car%20Price%20Prediction.ipynb)
 * Predicted the price of used cars posted on Ebay
 * Used multiple ML techniques: KNN, Decision Tree, Random Forest, LightGBM
 * Optimized hyperparameters using grid search cross validation
