@@ -1,5 +1,4 @@
-# Portfolio_Website
-* Here are some of the porjects I've completed using different sofware!
+# Here are some of the porjects I've completed using different sofware!
 * Click on the links to see more detailed information for each
 
 # [(Python) - Machine Learning ](https://github.com/alexfilo/Machine_Learning_Car_Price_Prediction/blob/main/Machine%20Learning%20Car%20Price%20Prediction.ipynb)
