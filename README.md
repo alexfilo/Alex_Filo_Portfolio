@@ -19,7 +19,7 @@ Showcasing some of my projects
 * Calculated averages and rolling metrics to investiage what poor school districts have in common
 * Showcased my ability to use subqueries and joins
 
-# [(Tableau) Dashboard ]
+# [(Tableau) Dashboard](https://github.com/alexfilo/Alex_Filo_Portfolio/blob/main/images/Tableau%20Covid%20Dashboard.png)
 * Visualized data on global Covid metrics as of July 2021
 * Dispalyed a map as well as a card, bard chart, and line graph
 
