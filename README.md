@@ -10,7 +10,7 @@
 * Created a pipeline to perform One Hot Encoding and Scaling
 
 # [(R) Graphing & Data Manipulation](https://github.com/alexfilo/Accidents/blob/main/accidents.Rmd)
-* Investigated what variables contribute to accidents using all data of all US accidents 2017-2020
+* Investigated what variables contribute to accidents using data from all US accidents 2017-2020
 * Used dplyr to mutate, filter, summarise, select, and arrange data
 * Created beautiful, customized graphs using ggplot
 
