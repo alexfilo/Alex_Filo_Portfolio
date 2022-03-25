@@ -24,6 +24,6 @@
 * Visualized data on global Covid metrics as of July 2021
 * Dispalyed a map as well as a card, bard chart, and line graph
 
-# [(Power BI) Dashboard](https://github.com/alexfilo/Portfolio_Website/blob/main/images/powerbi.jpg)
-* Visualized data for a hypothetical company called AppLaunch
-* Displayed cards, line charts, bar charts, pie graphs, and area charts
+# [(Power BI) Dashboard](https://github.com/alexfilo/Alex_Filo_Portfolio/blob/main/images/Power%20Bi%20dashboard.png)
+* Visualized sales data for a hypothetical company
+* Displayed cards, line charts, and bar charts
