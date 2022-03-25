@@ -19,6 +19,10 @@ Showcasing some of my projects
 * Calculated averages and rolling metrics to investiage what poor school districts have in common
 * Showcased my ability to use subqueries and joins
 
+# [(Tableau) Dashboard ]
+* Visualized data on global Covid metrics as of July 2021
+* Dispalyed a map as well as a card, bard chart, and line graph
+
 # [(Power BI) Dashboard](https://github.com/alexfilo/Portfolio_Website/blob/main/images/powerbi.jpg)
 * Visualized data for a hypothetical company called AppLaunch
 * Displayed cards, line charts, bar charts, pie graphs, and area charts
