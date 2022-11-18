@@ -28,5 +28,8 @@
 * Displayed cards, line charts, and bar charts
 
 
-# [(Python) - Cluster Analysis ](https://github.com/alexfilo/PortfolioProjects/blob/main/NBA.ipynb)
-* Clustered NBA champions
+# [(Python) - KMeans Cluster Analysis ](https://github.com/alexfilo/PortfolioProjects/blob/main/NBA.ipynb)
+* Performed KMeans Cluster Analysis to group all NBA champions 1980-2018
+* Utilized Seaborn to visualize differences between the groups
+* Massaged the data using groupby, MinMax Scaler, Label Encoder
+* Optimized the cluster number with the elbow method
