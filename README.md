@@ -1,7 +1,7 @@
 # Here are some of the projects I've completed using different tools!
 * Click on the links to see more detailed information for each
 
-# [(Python) - Machine Learning ](https://github.com/alexfilo/Machine_Learning_Car_Price_Prediction/blob/main/Machine%20Learning%20Car%20Price%20Prediction.ipynb)
+# [(Python) - Data Manipulation and Supervised Machine Learning ](https://github.com/alexfilo/Machine_Learning_Car_Price_Prediction/blob/main/Machine%20Learning%20Car%20Price%20Prediction.ipynb)
 * Predicted the price of used cars posted on Ebay
 * Used multiple ML techniques: KNN, Decision Tree, Random Forest, LightGBM
 * Optimized hyperparameters using grid search cross validation
@@ -26,3 +26,7 @@
 # [(Power BI) Dashboard](https://github.com/alexfilo/Alex_Filo_Portfolio/blob/main/images/Power%20Bi%20dashboard.png)
 * Visualized sales data for a hypothetical company
 * Displayed cards, line charts, and bar charts
+
+
+# [(Python) - Cluster Analysis ](https://github.com/alexfilo/PortfolioProjects/blob/main/NBA.ipynb)
+* Clustered NBA champions
