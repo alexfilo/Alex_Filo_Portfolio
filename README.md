@@ -9,15 +9,26 @@
 * Calculated feature importances to see which car features are most important in determining price
 * Created a pipeline to perform One Hot Encoding and Scaling
 
+# [(SQL) Subqueries & Joins](https://github.com/alexfilo/PortfolioProjects/blob/main/ChicagoSocioeconomic%20Data.sql)
+* Queried data from 3 files containing information on public schools, crimes, and census data in Chicago
+* Worked with data in multiple tables using CTE, Sub-queries, joins
+* Used window functions to calculated averages & dense_rank with a partition to investiage what poor school districts have in common
+
+# [(Python) - KMeans Cluster Analysis ](https://github.com/alexfilo/PortfolioProjects/blob/main/NBA.ipynb)
+* Performed KMeans Cluster Analysis to group all NBA champions 1980-2018
+* Utilized Seaborn to visualize differences between the groups
+* Massaged the data using groupby, MinMax Scaler, Label Encoder
+* Optimized the cluster number with the elbow method
+
+# [(R) - Natural Language Processing ](https://github.com/alexfilo/PortfolioProjects/blob/main/NaturalLanguageProcessingYelp.rmd)
+* Analyzed 10,000 yelp reviews to predict how many stars the user gives in a review, based on the words used
+* Performed Sentiment Analysis using an AFINN lexicon to create many variables
+* Fed variables in a linear regression to predict star rating, acheiving a .85 RMSE
+
 # [(R) Graphing & Data Manipulation](https://github.com/alexfilo/Accidents/blob/main/accidents.Rmd)
 * Investigated what variables contribute to accidents using data from all US accidents 2017-2020
 * Used dplyr to mutate, filter, summarise, select, and arrange data
 * Created beautiful, customized graphs using ggplot
-
-# [(SQL) Subqueries & Joins](https://github.com/alexfilo/PortfolioProjects/blob/main/ChicagoSocioeconomic%20Data.sql)
-* Queried data from 3 files containing information on public schools, crimes, and census data in Chicago
-* Calculated averages and rolling metrics to investiage what poor school districts have in common
-* Showcased my ability to use subqueries and joins
 
 # [(Tableau) Dashboard](https://github.com/alexfilo/Alex_Filo_Portfolio/blob/main/images/Tableau%20Covid%20Dashboard.png)
 * Visualized data on global Covid metrics as of July 2021
@@ -28,8 +39,3 @@
 * Displayed cards, line charts, and bar charts
 
 
-# [(Python) - KMeans Cluster Analysis ](https://github.com/alexfilo/PortfolioProjects/blob/main/NBA.ipynb)
-* Performed KMeans Cluster Analysis to group all NBA champions 1980-2018
-* Utilized Seaborn to visualize differences between the groups
-* Massaged the data using groupby, MinMax Scaler, Label Encoder
-* Optimized the cluster number with the elbow method
