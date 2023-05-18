@@ -14,6 +14,11 @@
 * Worked with data in multiple tables using CTE, Sub-queries, joins
 * Used window functions to calculated averages & dense_rank with a partition to investiage what poor school districts have in common
 
+# [(Python) - Machine Learning Classification ](https://github.com/alexfilo/PortfolioProjects/blob/main/classification-credit-prediction.ipynb)
+* Predicted credit approval result (yes / no) based on 20 features
+* Performed Feature Engineering, Log transformation, One Hot Encoding and Standard Scaler
+* Used a variety of machine learning techniques (Naive Bayes, Support Vector Classification, XGBoost, etc), along with cross validation and hyperparameters tuning
+
 # [(Python) - KMeans Cluster Analysis ](https://github.com/alexfilo/PortfolioProjects/blob/main/NBA.ipynb)
 * Performed KMeans Cluster Analysis to group all NBA champions 1980-2018
 * Utilized Seaborn to visualize differences between the groups
