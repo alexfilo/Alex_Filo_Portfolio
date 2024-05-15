@@ -19,7 +19,7 @@
 * Performed Feature Engineering, Log transformation, One Hot Encoding and Standard Scaler
 * Used a variety of machine learning techniques (Naive Bayes, Support Vector Classification, XGBoost, etc), along with cross validation and hyperparameters tuning
 
-# [(Python) - Computer Vision ]([https://github.com/alexfilo/PortfolioProjects/blob/main/NBA.ipynb](https://github.com/alexfilo/PortfolioProjects/blob/main/Computer%20Vision%20Xray.ipynb))
+# [(Python) - Computer Vision ]([https://github.com/alexfilo/PortfolioProjects/blob/main/NBA.ipynb](https://github.com/alexfilo/PortfolioProjects/blob/main/Computer%20Vision%20Xray.ipynb)
 * Identified edges in the image of an X-ray
 * Used the 5 steps of the The Canny edge detection algorithm: Noise reduction, Gradient calculation, Non-maximum suppression, Double threshold, Edge Tracking by Hysteresis.
 
